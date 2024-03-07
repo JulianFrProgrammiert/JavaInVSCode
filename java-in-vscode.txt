@@ -1,0 +1,8 @@
+1. Java installieren
+https://www.oracle.com/java/
+
+2. VSCode Extensions installieren
+https://code.visualstudio.com/docs/languages/java
+
+3. Test Projekt
+In Visual Studio Code
